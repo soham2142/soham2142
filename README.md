@@ -146,7 +146,7 @@ I'm currently looking for opportunities in:
 
 📧 Email: 2709soham@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/soham-sutar-a9151a344/))
+💼 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/soham-sutar-a9151a344/])
 
 🐙 GitHub: [github.com/soham2142](https://github.com/soham2142)
 
