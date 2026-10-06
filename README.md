@@ -1,33 +1,35 @@
-# Hi, I'm Soham Sutar 👋
+## 👨‍💻 About Me
 
-### Aspiring Data Scientist | AI & Data Science Engineer | Machine Learning Enthusiast
+Hii Myself Soham Sandeep Sutar
 
-🎓 Final-year B.E. student in Artificial Intelligence & Data Science  
-📊 Passionate about Data Science, Machine Learning & Data Analytics  
-🐍 Building projects with Python, SQL, Pandas & Machine Learning  
-🚀 Currently exploring Generative AI, LangChain & LangGraph
+I'm a B.E. graduate in Artificial Intelligence & Data Science with a strong
+interest in Data Science, Machine Learning, Generative AI, and Data Analytics.
+
+I enjoy building practical, data-driven applications and solving real-world
+problems using Python, SQL, Machine Learning, and modern AI technologies.
+
+Currently focused on:
+
+- 📊 Data Science & Data Analytics
+- 🤖 Machine Learning
+- 🐍 Python & SQL
+- 🧠 Generative AI & LLM Applications
+- 🔗 LangChain & LangGraph
+- 📈 Data Visualization
+- 🚀 AI-powered Applications
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Career Goals
 
-I'm a final-year Artificial Intelligence & Data Science engineering student
-interested in transforming data into meaningful insights and intelligent
-applications.
+I'm currently looking for opportunities as:
 
-I enjoy working on:
-
-- 📊 Data Analysis & Exploratory Data Analysis
-- 🤖 Machine Learning
-- 🐍 Python Programming
-- 🗄️ SQL & Database Management
-- 📈 Data Visualization
-- 🧠 Generative AI & LLM Applications
-- 🔗 LangChain & LangGraph
-- 🌐 AI-powered Applications
-
-Currently, I'm focused on improving my skills through hands-on projects
-and building practical AI & Data Science solutions.
+- Data Analyst
+- Junior Data Scientist
+- Machine Learning Engineer
+- AI/ML Engineer
+- Generative AI Engineer
+- AI/ML Intern
 
 ---
 
