@@ -35,12 +35,9 @@ I'm currently looking for opportunities as:
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,10 +52,10 @@ I'm currently looking for opportunities as:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Generative AI
+### Generative AI & LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -147,9 +144,9 @@ I'm currently looking for opportunities in:
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: 2709soham@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
+💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/soham-sutar-a9151a344/))
 
 🐙 GitHub: [github.com/soham2142](https://github.com/soham2142)
 
